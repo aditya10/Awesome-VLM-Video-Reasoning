@@ -55,3 +55,15 @@ Most Video-LLMs can understand video scenes and caption them with some accuracy.
 
 We greatly appreciate your contributions! Please create a PR with your paper added to the list, in the same format as above. 
 
+## Cite Our Work
+
+```
+@inproceedings{chinchure2025black,
+    title={Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events},
+    author={Chinchure, Aditya and Ravi, Sahithya and Ng, Raymond and Shwartz, Vered and Li, Boyang and Sigal, Leonid},
+    booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+    pages={24201--24210},
+    year={2025}
+  }
+```
+
