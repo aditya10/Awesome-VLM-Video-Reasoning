@@ -38,12 +38,20 @@ Most Video-LLMs can understand video scenes and caption them with some accuracy.
 | [**ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos**](https://milvlg.github.io/anetqa/) | CVPR 2023 | [Website](https://milvlg.github.io/anetqa/) |
 | [**CausalStep: A Benchmark for Explicit Stepwise Causal Reasoning in Videos**](https://www.arxiv.org/abs/2507.16878) | arXiv 2025 | [Website](https://www.arxiv.org/abs/2507.16878) |
 | [**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**](https://cg-bench.github.io/leaderboard/) | ICLR 2025 | [Website](https://cg-bench.github.io/leaderboard/) |
+| [**MINERVA: Evaluating Complex Video Reasoning**](https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva) | arXiv 2025 | [Code](https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva) |
+| [**Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation**](https://arxiv.org/abs/2503.10691) | ACL 2025 Findings | [Paper](https://arxiv.org/abs/2503.10691) |
+| [**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**](https://tiger-ai-lab.github.io/VideoEval-Pro/home_page.html) | arXiv 2025 | [Website](https://tiger-ai-lab.github.io/VideoEval-Pro/home_page.html) |
+| [**H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding**](https://github.com/siriusrecco/H2VU-BenchMark) | arXiv 2025 | [Code](https://github.com/siriusrecco/H2VU-BenchMark) |
+| [**Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**](https://github.com/HopLee6/Sports-QA) | arXiv 2025 | [Code](https://github.com/HopLee6/Sports-QA) |
+| [**ImplicitQA: Going beyond frames towards Implicit Video Reasoning**](https://huggingface.co/datasets/ucf-crcv/ImplicitQA) | arXiv 2025 | [Data](https://huggingface.co/datasets/ucf-crcv/ImplicitQA) |
+| [**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**](https://vru-accident.github.io) | arXiv 2025 | [Data](https://huggingface.co/datasets/kyh9191/VRU-Accident) |
+| [**VideoVista: A Versatile Benchmark for Video Understanding and Reasoning**](https://videovista.github.io) | arXiv 2025 | [Website](https://videovista.github.io) |
 | [**STAR: A Benchmark for Situated Reasoning in Real-World Videos**](https://bobbywu.com/STAR/) | NeurIPS 2021 | [Website](https://bobbywu.com/STAR/) |
 | [**Oops! Predicting Unintentional Action in Video**](https://oops.cs.columbia.edu) | CVPR 2020 | [Website](https://oops.cs.columbia.edu)) |
 | [**Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**](https://arxiv.org/abs/2001.06891) | CVPR 2020 | [Code](https://github.com/Guaranteer/VidSTG-Dataset) |
  [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005) | arXiv 2023 | [Code](https://github.com/OpenGVLab/Ask-Anything) |
  | [**TVQA: Localized, Compositional Video Question Answering**](https://arxiv.org/abs/1809.01696) | EMNLP 2018 | [Website](https://tvqa.cs.unc.edu/) |
-| [**Perception Test: A Diagnostic Benchmark for Multimodal Video Models**](https://arxiv.org/abs/2305.13786) | NeurIPS 2023 / ICCV 2023 Workshop | [Code](https://github.com/google-deepmind/perception_test) |
+| [**Perception Test: A Diagnostic Benchmark for Multimodal Video Models**](https://arxiv.org/abs/2305.13786) | NeurIPS 2023 | [Code](https://github.com/google-deepmind/perception_test) |
 | [**TempCompass: Do Video LLMs Really Understand Videos?**](https://arxiv.org/abs/2403.00476) | ACL 2024 | [Code](https://github.com/llyx97/TempCompass) |
 | [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/abs/2405.21075) | arXiv 2024 | [Code](https://github.com/BradyFU/Video-MME) |
 | [**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**](https://arxiv.org/abs/2406.16338) | arXiv 2024 | [Code](https://github.com/patrick-tssn/VideoHallucer) |
