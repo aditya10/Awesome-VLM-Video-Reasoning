@@ -28,10 +28,19 @@ Most Video-LLMs can understand video scenes and caption them with some accuracy.
 | :----- | :------------: | :----: |
 | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) | CVPR 2025 | [Website](https://blackswan.cs.ubc.ca), [Code](https://github.com/sahithyaravi/BlackSwan) |
 | [**FunQA: Towards Surprising Video Comprehension**](https://funqa-benchmark.github.io) | ECCV 2024 | [Website](https://funqa-benchmark.github.io) |
-| [**Oops! Predicting Unintentional Action in Video**](https://oops.cs.columbia.edu) | CVPR 2020 | [Website](https://oops.cs.columbia.edu)) |
-| [**Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**](https://arxiv.org/abs/2001.06891) | CVPR 2020 | [Code](https://github.com/Guaranteer/VidSTG-Dataset) |
 | [**UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces**](https://embodiedcity.github.io/UrbanVideo-Bench/) | arXiv 2025 | [Website](https://embodiedcity.github.io/UrbanVideo-Bench/) |
 | [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io) | CVPR 2024 | [Website](https://open-eqa.github.io) |
+| [**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**](https://mmbench-video.github.io) | NeurIPS D&B 2024 | [Website](https://mmbench-video.github.io) |
+| [**AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning**](https://openaccess.thecvf.com/content/CVPR2021/papers/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.pdf) | CVPR 2021 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.pdf) |
+| [**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**](https://vlm-reasoning.github.io/VCR-Bench/) | arXiv 2025 | [Website](https://vlm-reasoning.github.io/VCR-Bench/) |
+| [**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**](https://v-star-bench.github.io) | arXiv 2025 | [Website](https://v-star-bench.github.io) |
+| [**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**](https://vrbench.github.io) | ICCV 2025 | [Website](https://vrbench.github.io) |
+| [**ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos**](https://milvlg.github.io/anetqa/) | CVPR 2023 | [Website](https://milvlg.github.io/anetqa/) |
+| [**CausalStep: A Benchmark for Explicit Stepwise Causal Reasoning in Videos**](https://www.arxiv.org/abs/2507.16878) | arXiv 2025 | [Website](https://www.arxiv.org/abs/2507.16878) |
+| [**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**](https://cg-bench.github.io/leaderboard/) | ICLR 2025 | [Website](https://cg-bench.github.io/leaderboard/) |
+| [**STAR: A Benchmark for Situated Reasoning in Real-World Videos**](https://bobbywu.com/STAR/) | NeurIPS 2021 | [Website](https://bobbywu.com/STAR/) |
+| [**Oops! Predicting Unintentional Action in Video**](https://oops.cs.columbia.edu) | CVPR 2020 | [Website](https://oops.cs.columbia.edu)) |
+| [**Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**](https://arxiv.org/abs/2001.06891) | CVPR 2020 | [Code](https://github.com/Guaranteer/VidSTG-Dataset) |
  [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005) | arXiv 2023 | [Code](https://github.com/OpenGVLab/Ask-Anything) |
  | [**TVQA: Localized, Compositional Video Question Answering**](https://arxiv.org/abs/1809.01696) | EMNLP 2018 | [Website](https://tvqa.cs.unc.edu/) |
 | [**Perception Test: A Diagnostic Benchmark for Multimodal Video Models**](https://arxiv.org/abs/2305.13786) | NeurIPS 2023 / ICCV 2023 Workshop | [Code](https://github.com/google-deepmind/perception_test) |
