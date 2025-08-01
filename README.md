@@ -1,5 +1,6 @@
 # Awesome-VLM-Video-Reasoning  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Video-LLM Benchmarks and Models for Complex Understanding and Reasoning
+
+Most Video-LLMs can understand video scenes and caption them with some accuracy. However, can your video model go beyond that, and perform _complex reasoning tasks on surprising events_, _understand spatial relationships_, and _comprehend humor_? This repository contains benchmarks that challenge Multi-frame and Video-LLMs in terms of accurate perception 👁️, comprehension 💡, and reasoning 🧐 on the scene.
 
 **Our paper:**
 
